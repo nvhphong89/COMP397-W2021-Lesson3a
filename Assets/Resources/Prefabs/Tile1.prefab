@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3757135727673628592}
   - component: {fileID: 7625619340362370323}
   m_Layer: 3
-  m_Name: Tile
+  m_Name: Tile1
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -60,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -876546973899608171, guid: 48468cd89e96f3b47b977854a621f86b, type: 3}
+  - {fileID: 2100000, guid: 7efe8686268077844b86a0428d075392, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -89,7 +89,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4055757187806586896}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 82b2e8bdef6ac414c89791bd893e6890, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
